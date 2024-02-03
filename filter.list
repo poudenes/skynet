@@ -39,7 +39,7 @@ https://iplists.firehol.org/files/tor_exits_30d.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 
 #####################################################################################################
-# Other lists that can be used
+# Other lists that can be used.
 #####################################################################################################
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
