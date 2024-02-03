@@ -1,0 +1,24 @@
+# Firehol filter lists
+https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/botvrij_dst.ipset
+https://iplists.firehol.org/files/spamhaus_drop.netset
+https://iplists.firehol.org/files/spamhaus_edrop.netset
+https://iplists.firehol.org/files/dm_tor.ipset
+https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/socks_proxy_1d.ipset
+https://iplists.firehol.org/files/sslproxies_1d.ipset
+https://iplists.firehol.org/files/tor_exits_30d.ipset
+
+# Emergingthreats filter list
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+
+# Other filter list
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://www.binarydefense.com/banlist.txt
+https://cinsscore.com/list/ci-badguys.txt
+
+# Personal filter list
